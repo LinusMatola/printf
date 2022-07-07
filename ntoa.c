@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _ntoa_rev - Convert a long to a reversed string
